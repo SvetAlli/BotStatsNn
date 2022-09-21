@@ -3,16 +3,17 @@
   "Name": "BotStatsNn",
   "InternalName": "BotStatsNn",
   "AssemblyVersion": "0.0.0.1",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "Description": "YEP bots",
+  "RepoUrl": "https://github.com/SvetAlli/BotStatsNn",
   "ApplicableVersion": "any",
   "Tags": [
-    "sample",
-    "plugin",
-    "goats"
+    "bot",
+    "nn",
+    "stats"
   ],
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
+  "Punchline": "BotStatsNn",
   "DownloadLinkInstall": "https://raw.githubusercontent.com/svetalli/BotStatsNn/master/releases/0.0.0.1/BotStatsNn.zip",
   "DownloadLinkTesting": "https://raw.githubusercontent.com/svetalli/BotStatsNn/master/releases/0.0.0.1/BotStatsNn.zip",
   "DownloadLinkUpdate": "https://raw.githubusercontent.com/svetalli/BotStatsNn/master/releases/0.0.0.1/BotStatsNn.zip"
