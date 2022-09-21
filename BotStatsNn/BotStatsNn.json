@@ -1,9 +1,9 @@
 {
   "Author": "Svetlana Allilounya",
-  "Name": "BotKicking",
+  "Name": "BotStatsNn",
   "Punchline": "A short one-liner that shows up in /xlplugins.",
   "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
-  "InternalName": "samplePlugin",
+  "InternalName": "BotStatsNn",
   "ApplicableVersion": "any",
   "Tags": [
     "sample",
