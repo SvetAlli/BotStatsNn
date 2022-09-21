@@ -13,7 +13,7 @@
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/svetalli/BotStatsNn/master/releases/0.0.0.1/latest.zip",
-  "DownloadLinkTesting": "https://raw.githubusercontent.com/svetalli/BotStatsNn/master/releases/0.0.0.1/latest.zip",
-  "DownloadLinkUpdate": "https://raw.githubusercontent.com/svetalli/BotStatsNn/master/releases/0.0.0.1/latest.zip"
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/svetalli/BotStatsNn/master/releases/0.0.0.1/BotStatsNn.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/svetalli/BotStatsNn/master/releases/0.0.0.1/BotStatsNn.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/svetalli/BotStatsNn/master/releases/0.0.0.1/BotStatsNn.zip"
 }
