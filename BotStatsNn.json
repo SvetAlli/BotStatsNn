@@ -1,4 +1,4 @@
-{
+[{
   "Author": "Svetlana Allilounya",
   "Name": "BotStatsNn",
   "InternalName": "BotStatsNn",
@@ -16,4 +16,4 @@
   "DownloadLinkInstall": "https://raw.githubusercontent.com/svetalli/BotStatsNn/master/releases/0.0.0.1/BotStatsNn.zip",
   "DownloadLinkTesting": "https://raw.githubusercontent.com/svetalli/BotStatsNn/master/releases/0.0.0.1/BotStatsNn.zip",
   "DownloadLinkUpdate": "https://raw.githubusercontent.com/svetalli/BotStatsNn/master/releases/0.0.0.1/BotStatsNn.zip"
-}
+}]
