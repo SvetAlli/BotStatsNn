@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Numerics;
 
-namespace SamplePlugin
+namespace BotStatsNn
 {
     [Serializable]
     public class Configuration : IPluginConfiguration
